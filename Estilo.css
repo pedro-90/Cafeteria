@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bokor&display=swap');
+
+
+body{
+	background: #deb887;
+	margin-Left: 20%;
+	margin-right: 20%;
+	border: 4px dotted #363636;
+	padding: 10px 10px 10px 10px;
+	
+}
+
+
+h1{color: grey;}
+
+.cafe{
+	color: #fff ;
+	font-family:"Bokor";
+	font-size: 4rem;
+	font-weight: 100;
+	text-shadow: 5px 5px 5px rgb(255, 0, 0);
+}
+ img{
+ 	box-shadow: 5px 5px 5px rgb(255, 0, 0);
+ 	border-radius: 15px;
+ }
